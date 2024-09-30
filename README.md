@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @aqib4
-- 👀 I’m interested in Coding and learning new skills, trying myself to update about technologies.
-- 🌱 I’m currently learning core php and also Laravel.
-- 💞️ I’m looking to collaborate on php core projects and small works.
+- 👋 Hi, I’m Muhammad Aqib
+- 👀 I’m interested in Coding and learning new skills.
+- 🌱 I’m currently learning Tailwind | REACT JS
+- 💞️ I’m looking to collaborate on React JS core projects.
 - 📫 How to reach me ...
 
 <!---
